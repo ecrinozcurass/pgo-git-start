@@ -8,6 +8,8 @@ Author: Ecrin Ozcuras
 
 This repository was created for learning Git and GitHub workflow.
 
+This repository was created during PGO course exercises.
+
 
 
 Project structure:
@@ -15,4 +17,6 @@ Project structure:
 \- README.md
 
 \- src/Main.java
+
+
 
